@@ -1,2 +1,38 @@
 {
+  "NodeSchool Orlando Meetup May 2016": {
+    "location": {
+      "lat": 28.684818,
+      "lng": -81.353659,
+      "name": "FamiLAB"
+    },
+    "startTime": "19:00",
+    "startDate": "16.05.2016",
+    "endTime": "21:00",
+    "endDate": "16.05.2016",
+    "url": "https://familab.org/calendar/"
+  },
+  "NodeSchool Orlando Meetup June 2016": {
+    "location": {
+      "lat": 28.684818,
+      "lng": -81.353659,
+      "name": "FamiLAB"
+    },
+    "startTime": "19:00",
+    "startDate": "16.06.2016",
+    "endTime": "21:00",
+    "endDate": "16.06.2016",
+    "url": "https://familab.org/calendar/"
+  },
+  "NodeSchool Orlando Meetup July 2016": {
+    "location": {
+      "lat": 28.684818,
+      "lng": -81.353659,
+      "name": "FamiLAB"
+    },
+    "startTime": "19:00",
+    "startDate": "21.07.2016",
+    "endTime": "21:00",
+    "endDate": "21.07.2016",
+    "url": "https://familab.org/calendar/"
+  }
 }
